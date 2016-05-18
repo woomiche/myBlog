@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I <3 Wesley
+title: IMPULSE
 email: mwoods22@vt.edu
-description: A space to hear others and open my mind to new ideas
+description: XXX
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  InkWoods
+github_username:  woomiche
 
 # Build settings
 markdown: kramdown
