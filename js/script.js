@@ -6,7 +6,7 @@ jQuery(document).ready(function() {
 var landingPage = {
 
   initialize: function () {
-    landingPage.matchBrowserHeight();
+    // landingPage.matchBrowserHeight();
   },
 
   matchBrowserHeight: function() {
